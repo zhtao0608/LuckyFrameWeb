@@ -28,7 +28,7 @@ public class PublicConst {
 	 */
 	public static final String STATUSSTR0="0";
 	/**
-	 * 区别状态码 字符型 99
+	 * 区别状态码 字符型 99 test
 	 */
 	public static final String STATUSSTR99="99";
 	/**
