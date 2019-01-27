@@ -32,7 +32,7 @@ public class PublicConst {
 	 */
 	public static final String STATUSSTR99="99";
 	/**
-	 * 区别状态码 整型 99
+	 * 区别状态码 整型 99 demo
 	 */
 	public static final int STATUS99=99;
 	/**
